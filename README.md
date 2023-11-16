@@ -1,6 +1,10 @@
 ![Jeremiah Gadingan](https://github.com/wcjeremy/REACH-Mastermind-Game/assets/116251775/4b029c04-4792-4272-a575-68d559ad0ecd)
 
+Singleplayer Mode
+In singleplayer mode, you can choose from three levels of difficulty - easy, medium, and hard. Each level provides a unique challenge as you attempt to unlock the gate by deducing the secret pattern. Aim to beat the game in the fewest attempts possible and secure a spot on the high score leaderboard! Replay the game to beat your previous best and sharpen your problem-solving skills.
 
+Multiplayer Mode
+The multiplayer version of Mastermind offers an exciting twist. You and another player can choose the difficulty level and then decide whether to collaborate or compete. Work together to unlock the gate, or turn it into a thrilling race to see who can crack the code first. Keep playing to outdo your high scores and claim the bragging rights!
 
 ## What is Mastermind??
  
@@ -40,6 +44,7 @@ Game initializes and selects “0 1 3 5”
 * Random Number Generation: The game uses the Random Number Generator API to create the secret number combinations.
 * Language and Libraries: Developed in Python, utilizing requests for API communication and time for gameplay dynamics.
 * Singleplayer or Multiplayer versions: Play solo or challenge a friend.
+    * Multiplayer still keeps the 10 attempts so work together or work against one another! 
 * User Interface: Simple command-line interface for easy interaction and accessibility.
     * Ability to guess the combinations of 4 numbers
     * Ability to view the history of guesses and their feedback
