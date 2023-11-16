@@ -4,7 +4,8 @@
 
 ## What is Mastermind??
  
-Embark on an enthralling journey with the Mastermind Game. Mastermind is a challenging and engaging game where players compete against the computer to crack a numerical code. The objective is simple yet stimulating: guess the correct sequence of numbers within a limited number of attempts. Feedback is provided after each guess, indicating how close the player's guess was to the actual number combination. This is also my project for an amazing program I want to get in!
+Embark on an enthralling journey with the Mastermind Game. Mastermind is a challenging and engaging game where players compete against the computer to crack a numerical code. The objective is simple yet stimulating: guess the correct sequence of numbers within a limited number of attempts. Feedback is provided after each guess, indicating how close the player's guess was to the actual number combination. 
+* This is also my project for an amazing program I want to get in! :)
 
 ## Why Play Mastermind?
 
