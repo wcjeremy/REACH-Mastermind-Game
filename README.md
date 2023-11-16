@@ -57,7 +57,7 @@ Game initializes and selects “0 1 3 5”
 5. HAVE FUN :)
 
 
-## Some bugs to note 
+## Some Bugs To Note 
 
 * If name already exists, it will print out the same name multiple times
 * More error handling on incorrect inputs:
