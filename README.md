@@ -1,4 +1,5 @@
-!https://github.com/wcjeremy/REACH-Mastermind-Game/assets/116251775/0ac0e7c8-4123-45a4-bc0d-e33d3dc726b2
+![Jeremiah Gadingan](https://github.com/wcjeremy/REACH-Mastermind-Game/assets/116251775/4b029c04-4792-4272-a575-68d559ad0ecd)
+
 
 
 ## What is Mastermind??
