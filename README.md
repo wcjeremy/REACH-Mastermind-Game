@@ -1,4 +1,4 @@
-![Logo]([Jeremiah Gadingan] (https://github.com/wcjeremy/REACH-Mastermind-Game/assets/116251775/0ac0e7c8-4123-45a4-bc0d-e33d3dc726b2)
+!https://github.com/wcjeremy/REACH-Mastermind-Game/assets/116251775/0ac0e7c8-4123-45a4-bc0d-e33d3dc726b2
 
 
 ## What is Mastermind??
