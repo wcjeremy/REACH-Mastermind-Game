@@ -55,3 +55,11 @@ Game initializes and selects “0 1 3 5”
 3. Navigate to the Directory: cd REACH-Mastermind-Game
 4. Run the Game: Execute python MastermindGame.py in your terminal.
 5. HAVE FUN :)
+
+
+## Some bugs to note 
+
+* If name already exists, it will print out the same name multiple times
+* More error handling on incorrect inputs:
+* Does not give an error when entering in more than 3, 4 , 5  inputs respective to difficulty, instead, code asks for another guess
+
