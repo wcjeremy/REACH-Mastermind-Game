@@ -30,6 +30,8 @@ Feedback System: Intelligent feedback helps players gauge their progress.
 High Score Tracking: Scores are recorded, allowing players to track their improvement or compete with others.
 
 ## Getting Started
-Clone the Repository: git clone https://github.com/wcjeremy/REACH-Mastermind-Game.git
+Clone the Repository: git clone https://github.com/wcjeremy/REACH-Mastermind-Game.git 
+
 Navigate to the Directory: cd REACH-Mastermind-Game
+
 Run the Game: python MastermindGame.py
