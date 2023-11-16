@@ -1,9 +1,11 @@
 ![Jeremiah Gadingan](https://github.com/wcjeremy/REACH-Mastermind-Game/assets/116251775/4b029c04-4792-4272-a575-68d559ad0ecd)
 
-**Singleplayer Mode**
+__Singleplayer Mode!__
+
 In singleplayer mode, you can choose from three levels of difficulty - easy, medium, and hard. Each level provides a unique challenge as you attempt to unlock the gate by deducing the secret pattern. Aim to beat the game in the fewest attempts possible and secure a spot on the high score leaderboard! *Replay the game to beat your previous best and sharpen your problem-solving skills.*
 
-**Multiplayer Mode**
+__Multiplayer Mode!__
+
 The multiplayer version of Mastermind offers an exciting twist. You and another player can choose the difficulty level and then decide whether to collaborate or compete. Work together to unlock the gate, or turn it into a thrilling race to see who can crack the code first. *Keep playing to outdo your high scores and claim the **bragging rights**!*
 
 ## What is Mastermind??
