@@ -14,6 +14,7 @@ Mastermind is a blend of strategy, logic, and deduction, making it an excellent 
 ## How to Play Mastermind 
 
 Game rules
+
 *	At the start of the game the computer will randomly select a pattern of four different numbers from a total of 8 different numbers.
 *	A player will have 10 attempts to guess the number combinations
 *	At the end of each guess, computer will provide one of the following response as feedback:
@@ -38,7 +39,7 @@ Game initializes and selects “0 1 3 5”
 
 * Random Number Generation: The game uses the Random Number Generator API to create the secret number combinations.
 * Language and Libraries: Developed in Python, utilizing requests for API communication and time for gameplay dynamics.
-* Singleplarer or Multiplayer versions: Play solo or challenge a friend.
+* Singleplayer or Multiplayer versions: Play solo or challenge a friend.
 * User Interface: Simple command-line interface for easy interaction and accessibility.
     * Ability to guess the combinations of 4 numbers
     * Ability to view the history of guesses and their feedback
@@ -53,11 +54,12 @@ Game initializes and selects “0 1 3 5”
 
 ## Getting Started
 
-1. Clone the Repository: git clone https://github.com/wcjeremy/REACH-Mastermind-Game.git 
-2. Install Requirements: Ensure Python and the requests library are installed.
-3. Navigate to the Directory: cd REACH-Mastermind-Game
-4. Run the Game: Execute python MastermindGame.py in your terminal.
-5. HAVE FUN :)
+1. Clone the Repository: git clone https://github.com/wcjeremy/REACH-Mastermind-Game.git
+2. Choose which file you wantt you use: 'MasterMindSP' for singleplayer or 'MasterMindMP' for multiplayer
+3. Install Requirements: Ensure Python and the requests library are installed.
+4. Navigate to the Directory: cd REACH-Mastermind-Game
+5. Run the Game: Execute python MastermindGame.py in your terminal.
+6. HAVE FUN :)
 
 
 ## Some Bugs To Note 
