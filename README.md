@@ -50,6 +50,8 @@ Game initializes and selects “0 1 3 5”
 
 ## Getting Started
 
-* Clone the Repository: git clone https://github.com/wcjeremy/REACH-Mastermind-Game.git 
-* Navigate to the Directory: cd REACH-Mastermind-Game
-* Run the Game: python MastermindGame.py
+1. Clone the Repository: git clone https://github.com/wcjeremy/REACH-Mastermind-Game.git 
+2. Install Requirements: Ensure Python and the requests library are installed.
+3. Navigate to the Directory: cd REACH-Mastermind-Game
+4. Run the Game: Execute python MastermindGame.py in your terminal.
+5. HAVE FUN :)
